@@ -21,7 +21,7 @@ Just add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-bitgraph = "0.1"
+hibitgraph = "0.1"
 ```
 
 ## License
