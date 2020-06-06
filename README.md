@@ -26,7 +26,8 @@ hibitgraph = "0.1"
 
 ## License
 
-This library is licensed under the Apache License 2.0,
-see [the LICENSE file][li] for more information.
+This library is licensed under dual MIT/Apache License v2.0,
+see the LICENSE files ([MIT][mit] and [Apache-v2.0][apache]) for more information.
 
-[li]: LICENSE
+[apache]: LICENSE-APACHE
+[mit]: LICENSE-MIT
