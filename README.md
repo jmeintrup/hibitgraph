@@ -1,4 +1,6 @@
 # hibitgraph
+[![Build Status](https://travis-ci.org/jmeintrup/hibitgraph.svg)](https://travis-ci.org/jmeintrup/hibitgraph)
+[![Crates.io](https://img.shields.io/crates/v/hibitgraph)](https://crates.io/crates/hibitgraph)
 
 Provides a very fast and space-efficient graph data structure for specific use cases.
 When to use:
