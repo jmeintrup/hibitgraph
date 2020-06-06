@@ -1,0 +1,15 @@
+sudo: false
+language: rust
+cache: cargo
+branches:
+  only:
+    - master
+rust:
+  - nightly
+  - stable
+script:
+  - cargo build --verbose
+  - cargo doc --verbose
+  - cargo test --verbose
+env:
+  - RUST_BACKTRACE=1
